@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/thearoranitin/TextUtils-react-js.git/static/css/main.da50ce46.chunk.css",
-    "main.js": "/thearoranitin/TextUtils-react-js.git/static/js/main.cf6b49d3.chunk.js",
-    "main.js.map": "/thearoranitin/TextUtils-react-js.git/static/js/main.cf6b49d3.chunk.js.map",
-    "runtime-main.js": "/thearoranitin/TextUtils-react-js.git/static/js/runtime-main.a6ed1268.js",
-    "runtime-main.js.map": "/thearoranitin/TextUtils-react-js.git/static/js/runtime-main.a6ed1268.js.map",
-    "static/js/2.e6da1395.chunk.js": "/thearoranitin/TextUtils-react-js.git/static/js/2.e6da1395.chunk.js",
-    "static/js/2.e6da1395.chunk.js.map": "/thearoranitin/TextUtils-react-js.git/static/js/2.e6da1395.chunk.js.map",
-    "static/js/3.664e0e2b.chunk.js": "/thearoranitin/TextUtils-react-js.git/static/js/3.664e0e2b.chunk.js",
-    "static/js/3.664e0e2b.chunk.js.map": "/thearoranitin/TextUtils-react-js.git/static/js/3.664e0e2b.chunk.js.map",
-    "index.html": "/thearoranitin/TextUtils-react-js.git/index.html",
-    "static/css/main.da50ce46.chunk.css.map": "/thearoranitin/TextUtils-react-js.git/static/css/main.da50ce46.chunk.css.map",
-    "static/js/2.e6da1395.chunk.js.LICENSE.txt": "/thearoranitin/TextUtils-react-js.git/static/js/2.e6da1395.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.da50ce46.chunk.css",
+    "main.js": "./static/js/main.cf6b49d3.chunk.js",
+    "main.js.map": "./static/js/main.cf6b49d3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.1d391c79.js",
+    "runtime-main.js.map": "./static/js/runtime-main.1d391c79.js.map",
+    "static/js/2.e6da1395.chunk.js": "./static/js/2.e6da1395.chunk.js",
+    "static/js/2.e6da1395.chunk.js.map": "./static/js/2.e6da1395.chunk.js.map",
+    "static/js/3.664e0e2b.chunk.js": "./static/js/3.664e0e2b.chunk.js",
+    "static/js/3.664e0e2b.chunk.js.map": "./static/js/3.664e0e2b.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.da50ce46.chunk.css.map": "./static/css/main.da50ce46.chunk.css.map",
+    "static/js/2.e6da1395.chunk.js.LICENSE.txt": "./static/js/2.e6da1395.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6ed1268.js",
+    "static/js/runtime-main.1d391c79.js",
     "static/js/2.e6da1395.chunk.js",
     "static/css/main.da50ce46.chunk.css",
     "static/js/main.cf6b49d3.chunk.js"
